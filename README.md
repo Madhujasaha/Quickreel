@@ -2,9 +2,7 @@
 <br />
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/psparwez/quick-reel)
-![GitHub stars](https://img.shields.io/github/stars/psparwez/quick-reel?style=social)
-![GitHub forks](https://img.shields.io/github/forks/psparwez/quick-reel?style=social)
+
 
 <br />
 <br />
@@ -14,7 +12,7 @@ A fully responsive Quick Reel landing page, <br />designed to promote an AI-powe
 
 <br />
 <br />
-<a href="https://psparwez.github.io/quick-reel/"><strong>➥ Live Demo</strong></a>
+
 
 </div>
 
@@ -114,7 +112,7 @@ Before starting, make sure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/psparwez/quick-reel.git
+    git clone https://github.com/Madhujasaha/Quickreel.git
     ```
 
 2. **Navigate to the project folder:**
@@ -140,24 +138,3 @@ You’re now ready to explore and customize **QuickReel** locally!
 
 ---
 
-## 📞 Contact
-
-If you have any questions, encounter issues, or would like to collaborate on this project, feel free to reach out!
-
-
-[![Contact](https://img.shields.io/badge/Contact-175fd4?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/psparwez/psparwez/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-
-### Reporting Issues
-
-If you encounter any bugs or have suggestions, please open an issue on the [GitHub Issues page](https://github.com/psparwez/quick-reel/issues).
-
-I look forward to hearing from you and collaborating!
-<br />
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-<br/>
